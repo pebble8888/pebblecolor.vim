@@ -1,4 +1,4 @@
-" file name : pebble.vim
+" file name : pebblecolor.vim
 " brief     : color setting file for vim
 " author    : pebble8888@gmail.com
 " 
@@ -7,7 +7,7 @@ set background=dark
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = "pebble"
+let g:colors_name = "pebblecolor"
 
 hi Comment		ctermfg=green	guifg=green
 hi Constant		ctermfg=blue	guifg=#00ffff
