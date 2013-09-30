@@ -12,10 +12,10 @@ let g:colors_name = "pebblecolor"
 hi Comment		ctermfg=green	guifg=green
 hi Constant		ctermfg=blue	guifg=#00ffff
 hi Identifier	ctermfg=blue	guifg=#00c0c0
-hi Statement	ctermfg=blue	guifg=blue
-hi PreProc		ctermfg=blue	guifg=blue
+hi Statement	ctermfg=blue	guifg=orange
+hi PreProc		ctermfg=blue	guifg=orange
 hi Type			ctermfg=lightRed guifg=orange
-hi Special		ctermfg=lightMagenta guifg=#0000ff
+hi Special		ctermfg=lightMagenta guifg=#00c0c0
 hi Error						guibg=#ff0000
 hi Todo			ctermfg=green guifg=#000080 	guibg=#c0c000
 hi Directory	ctermfg=green	guifg=#00c0c0
