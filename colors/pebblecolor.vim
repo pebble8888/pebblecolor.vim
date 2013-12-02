@@ -24,4 +24,8 @@ hi Normal						guifg=#ffffff guibg=#000000
 hi IncSearch	ctermfg=white ctermbg=blue guifg=#008000 guibg=#ccff00
 hi Search		ctermfg=white ctermbg=blue guifg=#008000 guibg=#ccff00
 hi Cursor		ctermfg=black guifg=black 	guibg=orange
+hi DiffAdd      ctermbg=red
+hi DiffChange   ctermbg=5
+hi DiffDelete   cterm=bold ctermfg=4 ctermbg=6
+hi DiffText     cterm=bold ctermbg=1
 
