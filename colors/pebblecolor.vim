@@ -29,6 +29,6 @@ hi DiffChange   ctermbg=5
 hi DiffDelete   cterm=bold ctermfg=4 ctermbg=6
 hi DiffText     cterm=bold ctermbg=1
 hi Pmenu        ctermbg=4 guibg=#666666
-hi PmenuSel     ctermbg=1 guibg=#8cd0d3
+hi PmenuSel     ctermbg=1 guibg=#80b71d
 hi PmenuSbar    ctermbg=4 guibg=#333333
 
