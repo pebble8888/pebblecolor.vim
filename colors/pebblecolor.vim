@@ -24,10 +24,10 @@ hi Normal						guifg=#ffffff guibg=#000000
 hi IncSearch	ctermfg=white ctermbg=blue guifg=#008000 guibg=#ccff00
 hi Search		ctermfg=white ctermbg=blue guifg=#008000 guibg=#ccff00
 hi Cursor		ctermfg=black guifg=black 	guibg=orange
-hi DiffAdd      cterm=bold ctermfg=10 ctermbg=22
-hi DiffChange   cterm=bold ctermfg=10 ctermbg=52
-hi DiffDelete   cterm=bold ctermfg=10 ctermbg=17
-hi DiffText     cterm=bold ctermfg=10 ctermbg=21
+hi DiffAdd      ctermbg=red
+hi DiffChange   ctermbg=5
+hi DiffDelete   cterm=bold ctermfg=4 ctermbg=6
+hi DiffText     cterm=bold ctermbg=1
 hi Pmenu        ctermbg=4 guibg=#666666
 hi PmenuSel     ctermbg=1 guibg=#80b71d
 hi PmenuSbar    ctermbg=4 guibg=#333333
