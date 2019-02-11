@@ -9,7 +9,8 @@ if exists("syntax_on")
 endif
 let g:colors_name = "pebblecolor"
 
-hi SpecialComment ctermfg=green guifg=#00ff80
+"hi SpecialComment ctermfg=green guifg=#00ff80
+hi SpecialComment ctermfg=green guifg=green
 hi Comment		ctermfg=green	guifg=green
 hi Constant		ctermfg=blue	guifg=#00ffff
 hi Identifier	ctermfg=blue	guifg=#00c0c0
